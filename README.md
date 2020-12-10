@@ -21,12 +21,11 @@ I'd like to say
 > [Alexa, cinema mode](https://vigonotion.com/blog/building-a-smart-home-theater-with-home-assistant/)
 and watch some shows. Here are my top recommendations for you:
 
+🤠 Westworld
+
 🌳 Dark
 
 🧬 Orphan Black
-
-🕓 Travelers
-
 
 <!--
 **vigonotion/vigonotion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
