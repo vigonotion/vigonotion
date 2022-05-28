@@ -1,6 +1,8 @@
-### Hi, I'm Tom Schneider 👋
+## Hi, I'm Tom 👋
 
-I'm a student at [HAW Hamburg](https://www.haw-hamburg.de/) and live in Germany 🇩🇪. When I'm not studying I'm working as a student employee programmer at [Tiplu](https://tiplu.de/) or playing around with these:
+I live in Germany 🇩🇪 working as a software developer at [Tiplu](https://tiplu.de/).
+
+### I'm interested in...
 
 💡 [Home Assistant](https://github.com/home-assistant/core) for my smart home (also see my blog at [https://vigonotion.com](https://vigonotion.com) which is mainly about smarthome)
   - https://github.com/custom-components/sensor.stadtreinigung_hamburg
