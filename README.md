@@ -32,7 +32,7 @@ and watch some shows. Here are my top recommendations for you:
 
 ### Find me elsewhere
 
-<a rel="me" href="https://fosstodon.org/@vigonotion">Mastodon</a>
+<a rel="nofollow me" href="https://fosstodon.org/@vigonotion">Mastodon</a>
 
 <!--
 **vigonotion/vigonotion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
